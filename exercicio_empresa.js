@@ -40,6 +40,26 @@ db.funcionarios.insertMany([
     { _id: 20, nome: 'Marcio', idade: 32, dependentes: 2, salario: 5500.50, departamento: 'Vendas', sexo: 'M' }
 ])
 
+db.funcionarios.insertOne({
+    _id: 21,
+    nome: 'Guilherma',
+    idade: 18,
+    dependentes: 1,
+    salario: 9300.50,
+    departamento: 'Recursos Humanos',
+    sexo: 'F'
+})
+
+db.funcionarios.insertOne({
+    _id: 22,
+    nome: 'Maria Custodia',
+    idade: 50,
+    dependentes: 1,
+    salario: 9200.50,
+    departamento: 'Recursos Humanos',
+    sexo: 'F'
+})
+
 // 4. Consultas
 
 // 1. Listar os funcionários que trabalham no departamento de Recursos Humanos
