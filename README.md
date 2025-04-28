@@ -19,9 +19,6 @@ Este repositório apresenta um exercício desenvolvido para fixação dos concei
 - MongoDB (banco de dados NoSQL)
 - JavaScript (para execução dos comandos de inserção e consulta)
 
-- MongoDB (banco de dados NoSQL)
-- JavaScript (para execução dos comandos de inserção e consulta)
-
  🎯 Objetivo
 Praticar comandos essenciais do MongoDB, incluindo:
 - `use`
