@@ -1,7 +1,7 @@
 // Exercício de MongoDB - Universidade de Mogi das Cruzes
 
 // Objetivo:
-// Praticar a criação de banco de dados, coleção, inserção de documentos e execução de consultas básicas no MongoDB.
+// Criar banco de dados denominado "empresa" para praticar a criação de coleção, inserção de documentos e execução de consultas básicas no MongoDB.
 
 // 1. Criar o Banco de Dados
 use empresa
