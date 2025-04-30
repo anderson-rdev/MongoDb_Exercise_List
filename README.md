@@ -1,20 +1,13 @@
-📚 empresa_exercicio.js
+📚 MongoDb Exercise List
 
-Exercício prático de MongoDB - Empresa
-
-Este repositório apresenta um exercício desenvolvido para fixação dos conceitos fundamentais de MongoDB, como criação de banco de dados, inserção de documentos e execução de consultas simples.
+Este repositório apresenta exercícios desenvolvidos para fixação dos conceitos fundamentais de MongoDB, como criação de banco de dados, inserção de documentos e execução de consultas simples ao avançado.
 
  🗂️ Conteúdo
-- Criação do banco de dados `empresa`
-- Criação da coleção `funcionarios`
-- Inserção de 20 documentos com dados variados (nome, idade, salário, dependentes, departamento, sexo)
-- Consultas utilizando filtros como:
-  - Idade
-  - Salário
-  - Departamento
-  - Dependentes
-  - Sexo
-
+- Criação do banco de dados 
+- Criação da coleções
+- Inserção de documentos com dados variados
+- Consultas utilizando filtros
+  
  🛠️ Tecnologias Utilizadas
 - MongoDB (banco de dados NoSQL)
 - JavaScript (para execução dos comandos de inserção e consulta)
@@ -25,3 +18,4 @@ Praticar comandos essenciais do MongoDB, incluindo:
 - `insertOne`
 - `insertMany`
 - `find` com filtros (`$gt`, `$lt`, `$in`, `$ne`, `$or`)
+- Entre Outros.
